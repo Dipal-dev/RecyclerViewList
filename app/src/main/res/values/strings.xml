@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecyclerViewList</string>
+
+    <string-array name="languages">
+        <item>Java</item>
+        <item>Android</item>
+        <item>Kotlin</item>
+        <item>PHP</item>
+        <item>NodeJS</item>
+        <item>HTML</item>
+        <item>CSS</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is a dummy description.</item>
+        <item>This is a dummy description.</item>
+        <item>This is a dummy description.</item>
+        <item>This is a dummy description.</item>
+        <item>This is a dummy description.</item>
+        <item>This is a dummy description.</item>
+        <item>This is a dummy description.</item>
+    </string-array>
+</resources>
